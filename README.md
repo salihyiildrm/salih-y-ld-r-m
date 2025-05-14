@@ -19,14 +19,14 @@
 ## 📂 Öne Çıkan Projelerim
 - **Sahibinden.com Web Scraper**  
   Python, Selenium ve BeautifulSoup kullanarak ilan verilerini otomatik olarak çeker.  
-  → [Repo linki buraya gelecek]
+
 
 - **Mini E-Ticaret Uygulaması**  
   Basit ürün listeleme ve sepet işlemleri için backend uygulaması (Flask + SQLite)  
-  → [Repo linki buraya gelecek]
+
 
 ---
 
 ## 📫 Bana Ulaş
 - **E-posta:** salih.yldiriim@gmail.com  
-- **LinkedIn:** [linkedin.com/in/salihyildirim](#) *(eğer varsa)*
+- **LinkedIn:** [linkedin.com/in/salihyildirim]
